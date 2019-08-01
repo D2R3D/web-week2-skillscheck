@@ -107,7 +107,7 @@ let me = {
 
 // Code here
 function bigOrSmall (arr) {
-	let answers = [];
+	let answers = [100, 200, 10, 4, 15] ;
 	// for (let i = 0; i < arr.length; i++) {
 	//  if(arr[i] > 100)}
 	//  arr.push('big')
@@ -126,7 +126,9 @@ function bigOrSmall (arr) {
 //Code Here
 function arrayReverser (arr) {
 // 	let reversed = [];
-// for(i > arr.length
+for (i > arr.length -1; i >= 0; i--)
+
+return arrayReverser()
 }
 //////////////////PROBLEM 14 - 18 Setup////////////////////
 
@@ -166,8 +168,8 @@ let total = myNumbers.reduce((total, element) =>{
 
 // Code Here
 let myNumbersIndex = [];
-myNumbers.forEach((index) => {
-myNumbersIndex.push(myNumbers)
+myNumbers.forEach((index,) => {
+myNumbers.length = myNumbersIndex
 
  })
 //////////////////PROBLEM 18////////////////////
@@ -176,7 +178,9 @@ myNumbersIndex.push(myNumbers)
 const notGeorge = ['Louis', 'Ted', 'Bill', 'Sharon', 'Mark', 'Angela']
 
 // Code Here
-let forTheLoveOfGeorge = notGeorge.map(element = "George")
+let forTheLoveOfGeorge = notGeorge.map(() => {
+	
+}
 
 
 //////////////////PROBLEM 19////////////////////
