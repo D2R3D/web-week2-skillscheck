@@ -30,11 +30,11 @@ var phrase = '';
 // // Code Here
 
 //  for (let i = 0; 0<lovesCode.length; i++)
- if (lovesCode =  true){
- return phrase('I love code')
- }else {
-     return phrase('I do not love to code')
- }
+//  if (lovesCode =  true){
+//  return phrase('I love code')
+//  }else {
+//      return phrase('I do not love to code')
+//  }
  
 //////////////////Wrap Up////////////////////
 // Refresh the index.html page in your browser. You should now see a poem that uses the variables from above.
